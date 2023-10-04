@@ -19,6 +19,7 @@ def get_recommendations(track_name):
 
 st.title("Music Recommendation System")
 st.caption("By Saeed Naeem")
+st.image("https://www.last.fm/music/The+Weeknd/+images/cf27d17105cb55287884129dbe6efe77")
 track_name = st.text_input("Enter a song name:")
 
 if track_name:
