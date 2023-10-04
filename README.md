@@ -1,2 +1,3 @@
 # st-spotify-recommendation
-Music Recommendation Sysrem
+Music Recommendation System
+Suggest songs according to user input
