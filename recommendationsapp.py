@@ -18,6 +18,7 @@ def get_recommendations(track_name):
     return recommendations
 
 st.title("Music Recommendation System")
+st.caption("By Saeed Naeem")
 track_name = st.text_input("Enter a song name:")
 
 if track_name:
