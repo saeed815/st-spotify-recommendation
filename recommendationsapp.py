@@ -19,7 +19,6 @@ def get_recommendations(track_name):
 
 st.title("Music Recommendation System")
 st.caption("By Saeed Naeem")
-st.image("https://images.app.goo.gl/8Ug6qVbTqdH8qZrr5")
 track_name = st.text_input("Enter a song name:")
 
 if track_name:
